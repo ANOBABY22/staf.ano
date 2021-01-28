@@ -152,8 +152,8 @@ banner() {
          ${ORANGE}  __   __ _   __       
          ${ORANGE} / _\ (  ( \ /  \      
          ${ORANGE}/    \/    /(  O )     
-         ${ORANGE}\_/\_/\_)__) \__/${RED}Version : 2.1    
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+         ${ORANGE}\_/\_/\_)__) \__/${RED} 
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by BABY ANO (tahmid.rayat)${WHITE}
 	EOF
 }
 
